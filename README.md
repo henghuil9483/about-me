@@ -14,3 +14,5 @@
 4. Flip
 5. Cook a bit more
 6. Serve
+
+reviewed by Dongxuan
